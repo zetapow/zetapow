@@ -14,7 +14,7 @@ const me = new Student();
 me.sayHello()
 ```
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning Fedora Linux
 - 🌱 I’m currently learning JavaScript
 
 <!---
