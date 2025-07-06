@@ -14,7 +14,7 @@ const me = new Student();
 me.sayHello()
 ```
 - 👋 Hi, I’m Peter
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning React, and Svelte
 
 <!---
 zetapow/zetapow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
