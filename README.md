@@ -14,7 +14,7 @@ const me = new Developer();
 me.sayHello()
 ```
 - 👋 Hi, I’m Peter
-- 🌱 I’m currently TypeScript
+- 🌱 I’m currently learning TypeScript
 - 💻Tech I am interested in:
     - [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
     - [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
