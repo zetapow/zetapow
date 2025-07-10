@@ -1,5 +1,5 @@
 ```javascript
-class Student {
+class Developer {
     constructor(name) {
     this.name = 'Peter Zhou';
     this.role = 'Student';
@@ -10,7 +10,7 @@ class Student {
     console.log('Thank you for stopping by')
     }
 
-const me = new Student();
+const me = new Developer();
 me.sayHello()
 ```
 - 👋 Hi, I’m Peter
